@@ -1,0 +1,23 @@
+#center{
+	 align: center;
+}
+
+/*Set the size of the div element that contains the map */
+#map {
+	height: 400px;  /* The height is 400 pixels */
+	width: 100%;  /* The width is the width of the web page */
+	text-align: center;
+}
+
+/*
+#googleMapData{
+	display: block;
+	left: 25%;
+	position: absolute;
+	top: 25%;
+	height: 50px;
+	width: 25%;
+}
+*/
+
+
